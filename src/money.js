@@ -14,7 +14,6 @@ const money = [
     { id: 13, amount: '$ 125000'},
     { id: 14, amount: '$ 250000'},
     { id: 15, amount: '$ 500000'},
-    { id: 15, amount: '$ 1000000'}
 ].reverse();
 
 export default money;
